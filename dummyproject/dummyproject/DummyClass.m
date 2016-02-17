@@ -12,7 +12,7 @@
 
 + (NSString*)dummyString
 {
-    return nil;
+    return @"";
 }
 
 + (NSString*)validString
