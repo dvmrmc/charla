@@ -1,0 +1,1 @@
+xctool -workspace charla.xcworkspace -sdk iphonesimulator -scheme dummyproject clean test
